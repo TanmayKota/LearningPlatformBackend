@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RXDCEMwoP8Q5Rx4ErEjlXWa+hNPPNENAG5epNLxeAHE=",
+  "Source": "ExpertFinder.Api",
+  "BasePath": "_content/ExpertFinder.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
