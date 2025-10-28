@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\C#\\ExpertFinder.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-27T19:58:14.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -75,12 +92,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:39:26.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T10:39:26.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SearchController.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "Controllers\\SearchController.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IGoogleSearchService.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\IGoogleSearchService.cs",
               "RelativeDocumentMoniker": "Services\\IGoogleSearchService.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "OpenAiService.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\OpenAiService.cs",
               "RelativeDocumentMoniker": "Services\\OpenAiService.cs",
@@ -128,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IOpenAiService.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\IOpenAiService.cs",
               "RelativeDocumentMoniker": "Services\\IOpenAiService.cs",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SearchRequest.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Models\\SearchRequest.cs",
               "RelativeDocumentMoniker": "Models\\SearchRequest.cs",
@@ -164,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GoogleSearchService.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\GoogleSearchService.cs",
               "RelativeDocumentMoniker": "Services\\GoogleSearchService.cs",
