@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a167716b-2821-4987-9279-8a96c402a088")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpertFinder.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69e1b1e9c1e547d18427786022ce50a4677d5924")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f7029fee71196f4357eab9921fa9171c24106ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpertFinder.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpertFinder.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

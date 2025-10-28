@@ -1,50 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\C#\\ExpertFinder.Api\\",
+  "WorkspaceRootPath": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\services\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\services\\igooglesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\igooglesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|d:\\projects\\c#\\expertfinder.api\\models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\igooglesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\igooglesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,77 +62,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-28T16:59:33.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\.gitignore",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\.gitignore",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-10-27T19:58:14.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-26T10:40:03.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T17:31:16.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:39:26.205Z"
+              "WhenOpened": "2025-10-26T10:39:26.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "SearchController.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Controllers\\SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "Controllers\\SearchController.cs",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Controllers\\SearchController.cs",
               "RelativeToolTip": "Controllers\\SearchController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:44:42.45Z"
+              "WhenOpened": "2025-10-26T10:44:42.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\AuthService.cs",
               "RelativeToolTip": "Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:43:52.169Z"
+              "WhenOpened": "2025-10-26T10:43:52.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "IGoogleSearchService.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\IGoogleSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\IGoogleSearchService.cs",
               "RelativeDocumentMoniker": "Services\\IGoogleSearchService.cs",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\IGoogleSearchService.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\IGoogleSearchService.cs",
               "RelativeToolTip": "Services\\IGoogleSearchService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAA6wAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,59 +169,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "OpenAiService.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\OpenAiService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\OpenAiService.cs",
               "RelativeDocumentMoniker": "Services\\OpenAiService.cs",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\OpenAiService.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\OpenAiService.cs",
               "RelativeToolTip": "Services\\OpenAiService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:42:54.612Z"
+              "WhenOpened": "2025-10-26T10:42:54.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IOpenAiService.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\IOpenAiService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\IOpenAiService.cs",
               "RelativeDocumentMoniker": "Services\\IOpenAiService.cs",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\IOpenAiService.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\IOpenAiService.cs",
               "RelativeToolTip": "Services\\IOpenAiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:42:42.142Z"
+              "WhenOpened": "2025-10-26T10:42:42.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:44:21.601Z"
+              "WhenOpened": "2025-10-26T10:44:21.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SearchRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Models\\SearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Models\\SearchRequest.cs",
               "RelativeDocumentMoniker": "Models\\SearchRequest.cs",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\Models\\SearchRequest.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Models\\SearchRequest.cs",
               "RelativeToolTip": "Models\\SearchRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:39:50.179Z"
+              "WhenOpened": "2025-10-26T10:39:50.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "GoogleSearchService.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\GoogleSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\GoogleSearchService.cs",
               "RelativeDocumentMoniker": "Services\\GoogleSearchService.cs",
-              "ToolTip": "D:\\Projects\\C#\\ExpertFinder.Api\\Services\\GoogleSearchService.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\GoogleSearchService.cs",
               "RelativeToolTip": "Services\\GoogleSearchService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAUwA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
