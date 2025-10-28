@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -62,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-10-28T16:59:33.913Z",
               "EditorCaption": ""
@@ -105,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-28T17:31:16.942Z",
               "EditorCaption": ""
