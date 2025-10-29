@@ -3,6 +3,7 @@
 using Microsoft.OpenApi.Models;
 using System.Net;
 using System.Text;
+using ExpertFinder.Api.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

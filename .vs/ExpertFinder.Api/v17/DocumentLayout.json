@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\igooglesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\igooglesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -25,34 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\iopenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:models\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|c:\\users\\tanmay\\desktop\\unity_projects\\learningplatformbackend\\services\\igooglesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABE21252-3708-400F-8088-3A57EBD28332}|ExpertFinder.Api.csproj|solutionrelative:services\\igooglesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,86 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-28T16:59:33.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-27T19:58:14.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-26T10:40:03.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-28T17:31:16.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T10:39:26.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "SearchController.cs",
               "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "Controllers\\SearchController.cs",
               "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Controllers\\SearchController.cs",
               "RelativeToolTip": "Controllers\\SearchController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAowAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowAMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:44:42.45Z"
+              "WhenOpened": "2025-10-26T10:44:42.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
@@ -154,75 +105,129 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "IGoogleSearchService.cs",
               "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\IGoogleSearchService.cs",
               "RelativeDocumentMoniker": "Services\\IGoogleSearchService.cs",
               "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\IGoogleSearchService.cs",
               "RelativeToolTip": "Services\\IGoogleSearchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:43:10.259Z"
+              "WhenOpened": "2025-10-26T10:43:10.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "OpenAiService.cs",
               "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\OpenAiService.cs",
               "RelativeDocumentMoniker": "Services\\OpenAiService.cs",
               "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\OpenAiService.cs",
               "RelativeToolTip": "Services\\OpenAiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:42:54.612Z"
+              "WhenOpened": "2025-10-26T10:42:54.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "IOpenAiService.cs",
               "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\IOpenAiService.cs",
               "RelativeDocumentMoniker": "Services\\IOpenAiService.cs",
               "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\IOpenAiService.cs",
               "RelativeToolTip": "Services\\IOpenAiService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:42:42.142Z"
+              "WhenOpened": "2025-10-26T10:42:42.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:44:21.601Z"
+              "WhenOpened": "2025-10-26T10:44:21.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SearchRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Models\\SearchRequest.cs",
-              "RelativeDocumentMoniker": "Models\\SearchRequest.cs",
-              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Models\\SearchRequest.cs",
-              "RelativeToolTip": "Models\\SearchRequest.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:39:50.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "GoogleSearchService.cs",
               "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\GoogleSearchService.cs",
               "RelativeDocumentMoniker": "Services\\GoogleSearchService.cs",
               "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Services\\GoogleSearchService.cs",
               "RelativeToolTip": "Services\\GoogleSearchService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T10:43:22.304Z"
+              "WhenOpened": "2025-10-26T10:43:22.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-27T19:58:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Models\\SearchRequest.cs",
+              "RelativeDocumentMoniker": "Models\\SearchRequest.cs",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Models\\SearchRequest.cs",
+              "RelativeToolTip": "Models\\SearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:39:50.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T17:31:16.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T10:40:03.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Tanmay\\Desktop\\Unity_Projects\\LearningPlatformBackend\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-28T16:59:33.913Z"
             }
           ]
         }
